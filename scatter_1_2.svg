@@ -1,0 +1,102 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" width="840" height="560">
+<rect width="100%" height="100%" fill="white"/>
+<text x="70" y="32" font-family="Arial" font-size="18" font-weight="bold">Признаки (1, 2), Ward, силуэт = 0.432</text>
+<line x1="70" y1="500" x2="590" y2="500" stroke="black" stroke-width="2"/>
+<line x1="70" y1="500" x2="70" y2="60" stroke="black" stroke-width="2"/>
+<line x1="93.6" y1="500" x2="93.6" y2="505" stroke="black"/>
+<text x="93.6" y="520" font-family="Arial" font-size="12" text-anchor="middle">14.0</text>
+<line x1="65" y1="480.0" x2="70" y2="480.0" stroke="black"/>
+<text x="60" y="484.0" font-family="Arial" font-size="12" text-anchor="end">11.0</text>
+<line x1="211.8" y1="500" x2="211.8" y2="505" stroke="black"/>
+<text x="211.8" y="520" font-family="Arial" font-size="12" text-anchor="middle">20.8</text>
+<line x1="65" y1="380.0" x2="70" y2="380.0" stroke="black"/>
+<text x="60" y="384.0" font-family="Arial" font-size="12" text-anchor="end">13.0</text>
+<line x1="330.0" y1="500" x2="330.0" y2="505" stroke="black"/>
+<text x="330.0" y="520" font-family="Arial" font-size="12" text-anchor="middle">27.5</text>
+<line x1="65" y1="280.0" x2="70" y2="280.0" stroke="black"/>
+<text x="60" y="284.0" font-family="Arial" font-size="12" text-anchor="end">15.0</text>
+<line x1="448.2" y1="500" x2="448.2" y2="505" stroke="black"/>
+<text x="448.2" y="520" font-family="Arial" font-size="12" text-anchor="middle">34.2</text>
+<line x1="65" y1="180.0" x2="70" y2="180.0" stroke="black"/>
+<text x="60" y="184.0" font-family="Arial" font-size="12" text-anchor="end">17.0</text>
+<line x1="566.4" y1="500" x2="566.4" y2="505" stroke="black"/>
+<text x="566.4" y="520" font-family="Arial" font-size="12" text-anchor="middle">41.0</text>
+<line x1="65" y1="80.0" x2="70" y2="80.0" stroke="black"/>
+<text x="60" y="84.0" font-family="Arial" font-size="12" text-anchor="end">19.0</text>
+<text x="330" y="545" font-family="Arial" font-size="14" text-anchor="middle">Признак 1</text>
+<text x="20" y="280" font-family="Arial" font-size="14" text-anchor="middle" transform="rotate(-90 20,280)">Признак 2</text>
+<circle cx="163.7" cy="80.0" r="5" fill="#e6194B" fill-opacity="0.75" stroke="black" stroke-width="0.6"/>
+<circle cx="146.2" cy="230.0" r="5" fill="#e6194B" fill-opacity="0.75" stroke="black" stroke-width="0.6"/>
+<circle cx="111.1" cy="430.0" r="5" fill="#e6194B" fill-opacity="0.75" stroke="black" stroke-width="0.6"/>
+<circle cx="128.7" cy="480.0" r="5" fill="#e6194B" fill-opacity="0.75" stroke="black" stroke-width="0.6"/>
+<circle cx="181.2" cy="180.0" r="5" fill="#e6194B" fill-opacity="0.75" stroke="black" stroke-width="0.6"/>
+<circle cx="111.1" cy="130.0" r="5" fill="#e6194B" fill-opacity="0.75" stroke="black" stroke-width="0.6"/>
+<circle cx="146.2" cy="380.0" r="5" fill="#e6194B" fill-opacity="0.75" stroke="black" stroke-width="0.6"/>
+<circle cx="163.7" cy="480.0" r="5" fill="#e6194B" fill-opacity="0.75" stroke="black" stroke-width="0.6"/>
+<circle cx="163.7" cy="280.0" r="5" fill="#e6194B" fill-opacity="0.75" stroke="black" stroke-width="0.6"/>
+<circle cx="93.6" cy="230.0" r="5" fill="#e6194B" fill-opacity="0.75" stroke="black" stroke-width="0.6"/>
+<circle cx="146.2" cy="80.0" r="5" fill="#e6194B" fill-opacity="0.75" stroke="black" stroke-width="0.6"/>
+<circle cx="111.1" cy="180.0" r="5" fill="#e6194B" fill-opacity="0.75" stroke="black" stroke-width="0.6"/>
+<circle cx="163.7" cy="430.0" r="5" fill="#e6194B" fill-opacity="0.75" stroke="black" stroke-width="0.6"/>
+<circle cx="128.7" cy="380.0" r="5" fill="#e6194B" fill-opacity="0.75" stroke="black" stroke-width="0.6"/>
+<circle cx="111.1" cy="480.0" r="5" fill="#e6194B" fill-opacity="0.75" stroke="black" stroke-width="0.6"/>
+<circle cx="321.2" cy="280.0" r="5" fill="#3cb44b" fill-opacity="0.75" stroke="black" stroke-width="0.6"/>
+<circle cx="338.8" cy="230.0" r="5" fill="#3cb44b" fill-opacity="0.75" stroke="black" stroke-width="0.6"/>
+<circle cx="286.2" cy="80.0" r="5" fill="#3cb44b" fill-opacity="0.75" stroke="black" stroke-width="0.6"/>
+<circle cx="356.3" cy="180.0" r="5" fill="#3cb44b" fill-opacity="0.75" stroke="black" stroke-width="0.6"/>
+<circle cx="268.7" cy="380.0" r="5" fill="#4363d8" fill-opacity="0.75" stroke="black" stroke-width="0.6"/>
+<circle cx="321.2" cy="80.0" r="5" fill="#3cb44b" fill-opacity="0.75" stroke="black" stroke-width="0.6"/>
+<circle cx="233.7" cy="230.0" r="5" fill="#e6194B" fill-opacity="0.75" stroke="black" stroke-width="0.6"/>
+<circle cx="303.7" cy="430.0" r="5" fill="#4363d8" fill-opacity="0.75" stroke="black" stroke-width="0.6"/>
+<circle cx="321.2" cy="80.0" r="5" fill="#3cb44b" fill-opacity="0.75" stroke="black" stroke-width="0.6"/>
+<circle cx="216.2" cy="230.0" r="5" fill="#e6194B" fill-opacity="0.75" stroke="black" stroke-width="0.6"/>
+<circle cx="286.2" cy="430.0" r="5" fill="#4363d8" fill-opacity="0.75" stroke="black" stroke-width="0.6"/>
+<circle cx="251.2" cy="480.0" r="5" fill="#4363d8" fill-opacity="0.75" stroke="black" stroke-width="0.6"/>
+<circle cx="303.7" cy="180.0" r="5" fill="#3cb44b" fill-opacity="0.75" stroke="black" stroke-width="0.6"/>
+<circle cx="233.7" cy="130.0" r="5" fill="#e6194B" fill-opacity="0.75" stroke="black" stroke-width="0.6"/>
+<circle cx="268.7" cy="380.0" r="5" fill="#4363d8" fill-opacity="0.75" stroke="black" stroke-width="0.6"/>
+<circle cx="373.8" cy="480.0" r="5" fill="#4363d8" fill-opacity="0.75" stroke="black" stroke-width="0.6"/>
+<circle cx="338.8" cy="280.0" r="5" fill="#3cb44b" fill-opacity="0.75" stroke="black" stroke-width="0.6"/>
+<circle cx="408.8" cy="230.0" r="5" fill="#f58231" fill-opacity="0.75" stroke="black" stroke-width="0.6"/>
+<circle cx="303.7" cy="80.0" r="5" fill="#3cb44b" fill-opacity="0.75" stroke="black" stroke-width="0.6"/>
+<circle cx="373.8" cy="180.0" r="5" fill="#3cb44b" fill-opacity="0.75" stroke="black" stroke-width="0.6"/>
+<circle cx="338.8" cy="430.0" r="5" fill="#4363d8" fill-opacity="0.75" stroke="black" stroke-width="0.6"/>
+<circle cx="391.3" cy="380.0" r="5" fill="#4363d8" fill-opacity="0.75" stroke="black" stroke-width="0.6"/>
+<circle cx="426.3" cy="480.0" r="5" fill="#f58231" fill-opacity="0.75" stroke="black" stroke-width="0.6"/>
+<circle cx="286.2" cy="280.0" r="5" fill="#3cb44b" fill-opacity="0.75" stroke="black" stroke-width="0.6"/>
+<circle cx="356.3" cy="230.0" r="5" fill="#3cb44b" fill-opacity="0.75" stroke="black" stroke-width="0.6"/>
+<circle cx="408.8" cy="80.0" r="5" fill="#f58231" fill-opacity="0.75" stroke="black" stroke-width="0.6"/>
+<circle cx="321.2" cy="180.0" r="5" fill="#3cb44b" fill-opacity="0.75" stroke="black" stroke-width="0.6"/>
+<circle cx="303.7" cy="380.0" r="5" fill="#4363d8" fill-opacity="0.75" stroke="black" stroke-width="0.6"/>
+<circle cx="373.8" cy="80.0" r="5" fill="#3cb44b" fill-opacity="0.75" stroke="black" stroke-width="0.6"/>
+<circle cx="338.8" cy="230.0" r="5" fill="#3cb44b" fill-opacity="0.75" stroke="black" stroke-width="0.6"/>
+<circle cx="496.3" cy="430.0" r="5" fill="#f58231" fill-opacity="0.75" stroke="black" stroke-width="0.6"/>
+<circle cx="426.3" cy="80.0" r="5" fill="#f58231" fill-opacity="0.75" stroke="black" stroke-width="0.6"/>
+<circle cx="443.8" cy="230.0" r="5" fill="#f58231" fill-opacity="0.75" stroke="black" stroke-width="0.6"/>
+<circle cx="461.3" cy="430.0" r="5" fill="#f58231" fill-opacity="0.75" stroke="black" stroke-width="0.6"/>
+<circle cx="461.3" cy="480.0" r="5" fill="#f58231" fill-opacity="0.75" stroke="black" stroke-width="0.6"/>
+<circle cx="478.8" cy="180.0" r="5" fill="#f58231" fill-opacity="0.75" stroke="black" stroke-width="0.6"/>
+<circle cx="461.3" cy="130.0" r="5" fill="#f58231" fill-opacity="0.75" stroke="black" stroke-width="0.6"/>
+<circle cx="496.3" cy="380.0" r="5" fill="#f58231" fill-opacity="0.75" stroke="black" stroke-width="0.6"/>
+<circle cx="496.3" cy="480.0" r="5" fill="#f58231" fill-opacity="0.75" stroke="black" stroke-width="0.6"/>
+<circle cx="513.8" cy="280.0" r="5" fill="#f58231" fill-opacity="0.75" stroke="black" stroke-width="0.6"/>
+<circle cx="531.3" cy="230.0" r="5" fill="#f58231" fill-opacity="0.75" stroke="black" stroke-width="0.6"/>
+<circle cx="531.3" cy="80.0" r="5" fill="#f58231" fill-opacity="0.75" stroke="black" stroke-width="0.6"/>
+<circle cx="531.3" cy="180.0" r="5" fill="#f58231" fill-opacity="0.75" stroke="black" stroke-width="0.6"/>
+<circle cx="548.9" cy="430.0" r="5" fill="#f58231" fill-opacity="0.75" stroke="black" stroke-width="0.6"/>
+<circle cx="566.4" cy="380.0" r="5" fill="#f58231" fill-opacity="0.75" stroke="black" stroke-width="0.6"/>
+<path d="M146.0,273.0 L160.0,287.0 M146.0,287.0 L160.0,273.0" stroke="black" stroke-width="3"/>
+<circle cx="615" cy="80" r="6" fill="#e6194B" stroke="black" stroke-width="0.6"/>
+<text x="630" y="85" font-family="Arial" font-size="14">Кластер 1: n = 18</text>
+<path d="M322.4,169.7 L336.4,183.7 M322.4,183.7 L336.4,169.7" stroke="black" stroke-width="3"/>
+<circle cx="615" cy="110" r="6" fill="#3cb44b" stroke="black" stroke-width="0.6"/>
+<text x="630" y="115" font-family="Arial" font-size="14">Кластер 2: n = 15</text>
+<path d="M302.6,411.9 L316.6,425.9 M302.6,425.9 L316.6,411.9" stroke="black" stroke-width="3"/>
+<circle cx="615" cy="140" r="6" fill="#4363d8" stroke="black" stroke-width="0.6"/>
+<text x="630" y="145" font-family="Arial" font-size="14">Кластер 3: n = 9</text>
+<path d="M475.7,281.3 L489.7,295.3 M475.7,295.3 L489.7,281.3" stroke="black" stroke-width="3"/>
+<circle cx="615" cy="170" r="6" fill="#f58231" stroke="black" stroke-width="0.6"/>
+<text x="630" y="175" font-family="Arial" font-size="14">Кластер 4: n = 18</text>
+<text x="615" y="205" font-family="Arial" font-size="12">× — центр кластера</text>
+</svg>
